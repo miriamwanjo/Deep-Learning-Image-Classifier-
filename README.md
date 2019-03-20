@@ -1,4 +1,4 @@
-# image-classifier
+# Deep Learning - Image Classifier Project
 Using deep learning to train an image classifier to recognize different species of flowers.
 Load a pre-trained network 
 Define a new, untrained feed-forward network as a classifier, using ReLU activations and dropout
